@@ -47,7 +47,7 @@ Mapa de los lugares en los que existe constancia que estuvo Jesús de Nazaret
 * [Mateo 9:27-33](https://www.vatican.va/archive/ESL0506/__PUJ.HTM) – Jesús sanó a dos ciegos y a un mudo endemoniado
 * [Juan 6:22-65](https://www.vatican.va/archive/ESL0506/__PWC.HTM) – Jesús pronuncia el discurso sobre el pan de vida “Yo soy el pan de Vida. El que viene a mí jamás tendrá hambre; el que cree en mí jamás tendrá sed”
 
-8.	**`Magdala (residencia de María Magdalena)`**
+8.	**`Magdala (lugar de procedencia de María Magdalena)`**
 * [Mateo 16:1-4](https://www.vatican.va/archive/ESL0506/__PUQ.HTM) – Los fariseos y saduceos le pidieron a Jesús que les mostrase una señal del cielo
 
 9.	**`Canaá`**
