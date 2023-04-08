@@ -82,5 +82,5 @@ Mapa de los lugares en los que existe constancia que estuvo Jesús de Nazaret
 ---
 
 ## Referencias
-* La idea de aglutinar la información, [surgió a partir de este tweet](https://twitter.com/CarlosPazC2021/status/1643141939665969152?s=20), sobre el que he recogido, ampliado o rectificado alguna información
+* La idea de aglutinar la información, [surgió a partir de este tweet de Carlos Paz](https://twitter.com/CarlosPazC2021/status/1643141939665969152?s=20), sobre el que he recogido, ampliado o rectificado alguna información
 * [Referencia - Biblia - El libro del pueblo de Dios (traducción Argentina 1990) - El Vaticano](https://www.vatican.va/archive/ESL0506/_INDEX.HTM)
