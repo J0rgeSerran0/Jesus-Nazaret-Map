@@ -1,11 +1,8 @@
 # Jesús de Nazaret - Mapa y lugares
-
-## Descripción
 Mapa de los lugares en los que existe constancia que estuvo Jesús de Nazaret
 
 (*Palestina, Líbano y Siria*)
 
-[Referencia - Biblia - El libro del pueblo de Dios (traducción Argentina 1990) - El Vaticano](https://www.vatican.va/archive/ESL0506/_INDEX.HTM)
 
 ## Mapa actual (2023)
 ![2023 - current map](images/2023-current-map.png)
@@ -82,3 +79,8 @@ Mapa de los lugares en los que existe constancia que estuvo Jesús de Nazaret
 17.	**`Belén`**
 * [Lucas 2:1-7](https://www.vatican.va/archive/ESL0506/__PVK.HTM) – Jesús nació en Belén
 
+---
+
+## Referencias
+* La idea de aglutinar la información, [surgió a partir de este tweet](https://twitter.com/CarlosPazC2021/status/1643141939665969152?s=20), sobre el que he recogido, ampliado o rectificado alguna información
+* [Referencia - Biblia - El libro del pueblo de Dios (traducción Argentina 1990) - El Vaticano](https://www.vatican.va/archive/ESL0506/_INDEX.HTM)
