@@ -16,7 +16,7 @@ Mapa de los lugares en los que existe constancia que estuvo Jesús de Nazaret
 * [Mateo 15:21-28](https://www.vatican.va/archive/ESL0506/__PUP.HTM) – Jesús sanó a la hija de una mujer cananea, que estaba atormentada por un demonio
 
 2.	**`Monte de la Transfiguración`**
-* [Marcos 9:2-13](https://www.vatican.va/archive/ESL0506/__PVB.HTM) y [Lucas 9:28-36](https://www.vatican.va/archive/ESL0506/__PVR.HTM) – Jesús se transfiguró delante de Pedro, Santiago y Juan
+* [Marcos 9:2-13](https://www.vatican.va/archive/ESL0506/__PVB.HTM) y [Lucas 9:28-36](https://www.vatican.va/archive/ESL0506/__PVR.HTM) – Jesús se transfiguró delante de Pedro, Juan y Santiago
 
 3.	**`Cesarea de Filipo`** 
 * [Mateo 16:13-20](https://www.vatican.va/archive/ESL0506/__PUQ.HTM) – Simón Pedro testificó que Jesús es el Mesías, el Hijo de Dios vivo. Jesús le dijo a Pedro que le daría las llaves del Reino de los Cielos
