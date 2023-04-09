@@ -74,7 +74,7 @@ Mapa de los lugares en los que existe constancia que estuvo Jesús de Nazaret
 
 16.	**`Betania`**
 * [Juan 11:1-45](https://www.vatican.va/archive/ESL0506/__PWH.HTM) – Ciudad de María, su hermana Marta y Lázaro, a 3 kilómetros de Jerusalén. Jesús resucita a Lázaro de entre los muertos
-* [Mateo 26:6-13](https://www.vatican.va/archive/ESL0506/__PV0.HTM) y [Juan 12:1-8](https://www.vatican.va/archive/ESL0506/__PWI.HTM) – María unge los pies Jesús con una libra de perfume de nardo puro, y los seca con sus cabellos
+* [Mateo 26:6-13](https://www.vatican.va/archive/ESL0506/__PV0.HTM) y [Juan 12:1-8](https://www.vatican.va/archive/ESL0506/__PWI.HTM) – María unge los pies de Jesús con una libra de perfume de nardo puro, y los seca con sus cabellos
 
 17.	**`Belén`**
 * [Lucas 2:1-7](https://www.vatican.va/archive/ESL0506/__PVK.HTM) – Jesús nació en Belén
