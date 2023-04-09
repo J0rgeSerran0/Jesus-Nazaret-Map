@@ -60,7 +60,7 @@ Mapa de los lugares en los que existe constancia que estuvo Jesús de Nazaret
 11.	**`Jericó`**
 * [Lucas 18:35-43](https://www.vatican.va/archive/ESL0506/__PW0.HTM) – Jesús sana la vista a un ciego
 
-12.	**`Batábara`**
+12.	**`Betábara`**
 * [Juan 1:19-28](https://www.vatican.va/archive/ESL0506/__PW7.HTM) – En este lugar, Juan el Bautista testificó que él no era el Mesías, pero sí la voz que grita en el desierto. Allanen el camino del Señor, como dijo el profeta Isaías
 
 13.	**`Desierto de Judea`**
